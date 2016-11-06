@@ -1,37 +1,37 @@
-# useful-tools
-Useful Tools
+# Useful Tools
 
+## Automation
 
-## Task and 
-
-## Logging
-
-https://papertrailapp.com/ - (SaaS, Free tier - 48 hours search, 7 days archive, 100MB / month)
+https://hubot.github.com/ - Bot by Github (FOSS, Integration: Slack, Mattermost)
 
 ## DNS
 
 https://github.com/Netflix/denominator - cli DNS management for AWS Route53, Neustar Ultra, DynECT, Rackspace Cloud DNS, OpenStack Designate
 
-## Automation
+## Infrastructure automation
 
-https://hubot.github.com/ - Bot by Github (FOSS, Integration: Slack, Mattermost)
+https://convox.com/ - AWS based automatied infra (Free for 1 user)
+
+## Logging
+
+https://papertrailapp.com/ - (SaaS, Free tier - 48 hours search, 7 days archive, 100MB / month)
+
+## Mobile App Development
+
+http://jasonette.com/ - define an app in JSON (currently only for iOS)
 
 ## Project and Task management
 
 Trello
 http://taiga.io - 
 
-## Infrastructure automation
-
-https://convox.com/ - AWS based automatied infra (Free for 1 user)
-
 ## Other
 
 https://www.replicated.com/ - Install SaaS tools on Premise
 
-## Books recommended
+# Books recommended
 
-### Management:
+## Management:
 
   - High output management (Grove, 1995)
   - Leading Up: How to Lead Your Boss So You Both Win (Useem)
@@ -46,7 +46,7 @@ https://www.replicated.com/ - Install SaaS tools on Premise
   - This is what impactful Engineering leadership looks like - http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/
   - Notes on startup engineering management for young bloods - http://www.elidedbranches.com/2015/10/notes-on-startup-engineering-management.html?m=1
   
-### Engineering:
+## Engineering:
   - Continuous Integration: Improving Software Quality and Reducing Risk (Duval, Matyas, Glover, 2007)
   - Continuous Delivery: Release Software Releases through Build, Test and Deployment Automation (Humble, Farley, 2010)
   - Extreme Programming Explained: Embrace Change, 2nd Edition (The XP Series) (Beck, Andres)
