@@ -1,5 +1,8 @@
 # Useful Tools
 
+## Authetication
+https://portier.github.io/ - email based authentication. Google SSO with email address fallback (FOSS)
+
 ## Automation
 
 https://hubot.github.com/ - Bot by Github (FOSS, Integration: Slack, Mattermost)
