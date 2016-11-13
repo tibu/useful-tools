@@ -11,6 +11,10 @@ https://hubot.github.com/ - Bot by Github (FOSS, Integration: Slack, Mattermost)
 
 https://github.com/Netflix/denominator - cli DNS management for AWS Route53, Neustar Ultra, DynECT, Rackspace Cloud DNS, OpenStack Designate
 
+## Email
+
+http://reallygoodemails.com/ - Email templates with source
+
 ## Infrastructure automation
 
 https://convox.com/ - AWS based automatied infra (Free for 1 user)
