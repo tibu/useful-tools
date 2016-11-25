@@ -21,6 +21,11 @@ https://github.com/Netflix/denominator - cli DNS management for AWS Route53, Neu
 
 http://reallygoodemails.com/ - Email templates with source
 
+## Frontend
+
+http://cssreference.io/ - CSS Reference
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - Flexbox guide
+
 ## Logging
 
 https://papertrailapp.com/ - (SaaS, Free tier - 48 hours search, 7 days archive, 100MB / month)
