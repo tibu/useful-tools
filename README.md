@@ -43,6 +43,10 @@ http://jasonette.com/ - define an app in JSON (currently only for iOS)
 Trello
 http://taiga.io - 
 
+## Video
+
+http://dularion.github.io/streama/ - FOSS video stream management (home Netflix)
+
 ## Other
 
 https://www.replicated.com/ - Install SaaS tools on Premise
