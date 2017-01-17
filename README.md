@@ -30,6 +30,10 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - Flexbox guide
 
 https://papertrailapp.com/ - (SaaS, Free tier - 48 hours search, 7 days archive, 100MB / month)
 
+## Localization
+
+http://anthonynsimon.com/parrot.github.io/ - self hosted localization framework
+
 ## Mobile App Development
 
 http://jasonette.com/ - define an app in JSON (currently only for iOS)
